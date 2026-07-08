@@ -1,5 +1,4 @@
-# Interlinkages and Price Dynamics among Gold ETFs, Sovereign Bonds, and 
-Physical Gold in India
+# Interlinkages and Price Dynamics among Gold ETFs, Sovereign Bonds, and Physical Gold in India
 
 ## 📌 Why This Study
 
@@ -22,7 +21,7 @@ physical gold — behave relative to one another.
 
 - **Period**: January 2015 – October 2025 (10-year window covering crises and 
   recovery)
-- **SGBs**: daily prices from RBI / secondary market
+- **SGBs**: daily prices from BSE
 - **Gold ETFs**: daily trading prices from NSE
 - **Physical Gold**: daily gold futures prices (USD), converted to INR using 
   Yahoo Finance exchange-rate data
@@ -71,7 +70,7 @@ long-run trend, reflecting the growing **financialization of gold** in India
 
 ## 🖼️ Figures
 
-![Correlation Heatmap](figures/correlation_heatmap.png)
+![Correlation Heatmap](figures/Correlation_Heatmap.png)
 ![Regression Results](figures/regression_results.png)
 
 ## 🧭 Conclusion
@@ -91,5 +90,5 @@ cointegration, visualization)
 
 ## 📄 Full Deck
 
-See [`FIS_Term_Paper.pdf`](./FIS_Term_Paper.pdf) or 
-[`FIS_Term_Paper.pptx`](./FIS_Term_Paper.pptx) for the complete presentation.
+See [`Gold_ETF_SGB_price_dynamics.pdf`](./Gold_ETF_SGB_price_dynamics.pdf) or 
+[`Gold_ETF_SGB_price_dynamics.pptx`](./Gold_ETF_SGB_price_dynamics.pptx) for the complete presentation.
