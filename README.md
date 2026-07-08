@@ -71,7 +71,7 @@ long-run trend, reflecting the growing **financialization of gold** in India
 ## 🖼️ Figures
 
 ![Correlation Heatmap](figures/Correlation_Heatmap.png)
-![Regression Results](figures/regression_results.png)
+![Regression Results](figures/Regression_Results[SGB_on_Gold].png)
 
 ## 🧭 Conclusion
 
