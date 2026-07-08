@@ -70,8 +70,8 @@ long-run trend, reflecting the growing **financialization of gold** in India
 
 ## 🖼️ Figures
 
-![Correlation Heatmap](figures/Correlation_Heatmap.png)
-![Regression Results](figures/Regression_Results[SGB_on_Gold].png)
+![Correlation Heatmap](https://github.com/14haripriya-cyber/gold-etf-sgb-price-dynamics-india/blob/main/figures/Correlation%20Heatmap.png)
+![Regression Results](https://github.com/14haripriya-cyber/gold-etf-sgb-price-dynamics-india/blob/main/figures/Regression%20Results%20%5BETF%20on%20Gold%5D.png)
 
 ## 🧭 Conclusion
 
@@ -90,5 +90,5 @@ cointegration, visualization)
 
 ## 📄 Full Deck
 
-See [`Gold_ETF_SGB_price_dynamics.pdf`](./Gold_ETF_SGB_price_dynamics.pdf) or 
-[`Gold_ETF_SGB_price_dynamics.pptx`](./Gold_ETF_SGB_price_dynamics.pptx) for the complete presentation.
+See [`Gold_ETF_SGB_price_dynamics.pdf`](https://github.com/14haripriya-cyber/gold-etf-sgb-price-dynamics-india/blob/main/Gold%20ETF%20SGB%20price%20dynamics.pdf) or 
+[`Gold_ETF_SGB_price_dynamics.pptx`](https://github.com/14haripriya-cyber/gold-etf-sgb-price-dynamics-india/blob/main/Gold%20ETF%20SGB%20price%20dynamics.pptx) for the complete presentation.
